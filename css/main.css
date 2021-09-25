@@ -61,3 +61,6 @@ td,th{
 .navbar{
     font-family: "Montserrat", sans-serif;
 }
+ .img-thumbnail{
+     background-color: goldenrod;
+ }
